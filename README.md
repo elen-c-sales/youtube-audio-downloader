@@ -2,6 +2,8 @@
 
 Pequeno app em Flask para baixar o audio de videos do YouTube e cortar trechos em MP3. Precisei de uma trilha para o desenvolvimento do meu jogo [dino-run-vecna-edition](https://github.com/elen-c-sales/dino-run-vecna-edition) e resolvi fazer este app como apoio para meus projetos.
 
+https://github.com/user-attachments/assets/235f6815-2662-4870-a254-d25782ea3390
+
 ## Funcionalidades
 - Download de audio via link do YouTube
 - Conversao automatica para MP3
